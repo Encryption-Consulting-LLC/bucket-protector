@@ -1,0 +1,31 @@
+{
+  "user_info": {
+    "project_id": "",
+    "location_id": "",
+    "protected_bucket" : ""
+    },
+  "encrypting": [
+    {
+      "method": "Replacement",
+      "info_types": [""],
+      "replacement_string": ""
+    },
+    {
+      "method": "FPE Encryption",
+      "info_types": [""],
+      "surrogate_info_type": "",
+      "wrapping_key": "",
+      "wrapping_key_ring": ""
+    },
+    {
+      "method": "Masking",
+      "info_types": [""],
+      "masking_character": "",
+      "number_to_mask": ""
+    },
+    {
+      "method": "Redaction",
+      "info_types": [""]
+    }
+  ]
+}
