@@ -4,4 +4,4 @@ Bucket to Bucket Encryption is a Google Cloud utility function that encrypts dat
 
 The below diagram shows how the Google Cloud function works. The user transfers files from another Google Cloud Platform project, or another Cloud Service Provider, to Google Cloud Storage. This triggers the Google Cloud Function, which ensures the user has access to the DLP and KMS APIs. The data is then deidentified or encrypted based on user input and returned to Google Cloud Storage.
  
-![Diagram of Dataflow](/images/diagram.png)
+![Diagram of Dataflow](/images/diagram.png) 
